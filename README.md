@@ -9,7 +9,7 @@
 
 ## 💫 About Me
 
-Artificial Intelligence Engineer with experience in Computer Vision, Natural Language Processing, MLOps, and Data Analysis. I am passionate about developing and implementing AI-based solutions for real-world problems. Currently, as a trainee in the Turkcell Future Writers Artificial Intelligence Program, I am involved in a project focused on real-world applications.
+Artificial Intelligence Engineer with experience in Computer Vision, Natural Language Processing, MLOps, and Data Analysis. I am passionate about developing and implementing AI-based solutions for real-world problems.
 
 <p align="center" style="margin-top: 20px; margin-bottom: 30px;">
   <img src="https://komarev.com/ghpvc/?username=selinkarabicakkk&color=blueviolet&style=flat-square">
