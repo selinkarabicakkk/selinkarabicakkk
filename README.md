@@ -7,15 +7,15 @@
   <a href="mailto:selinss62@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-## 💫 Hakkımda (About Me)
+## 💫 About Me
 
-Yapay Zeka Mühendisi. Bilgisayarla Görü, Doğal Dil İşleme, MLOps ve Veri Analizi alanlarında deneyim sahibiyim. Gerçek dünya problemlerine yapay zeka tabanlı çözümler geliştirmek ve bu çözümleri hayata geçirmek konusunda tutkuluyum. Şu anda Turkcell Geleceği Yazanlar Yapay Zeka Programı'nda bir kursiyer olarak, gerçek dünya uygulamaları üzerine odaklanan bir projede yer almaktayım.
+Artificial Intelligence Engineer with experience in Computer Vision, Natural Language Processing, MLOps, and Data Analysis. I am passionate about developing and implementing AI-based solutions for real-world problems. Currently, as a trainee in the Turkcell Future Writers Artificial Intelligence Program, I am involved in a project focused on real-world applications.
 
 <p align="center" style="margin-top: 20px; margin-bottom: 30px;">
   <img src="https://komarev.com/ghpvc/?username=selinkarabicakkk&color=blueviolet&style=flat-square">
 </p>
 
-## 🛠️ Teknolojiler & Araçlar (Tech Stack & Tools)
+## 🛠️ Tech Stack & Tools
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 30px;">
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,linux,githubactions,git,bash" />
@@ -24,7 +24,7 @@ Yapay Zeka Mühendisi. Bilgisayarla Görü, Doğal Dil İşleme, MLOps ve Veri A
   <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,plotly,tableau" />
 </p>
 
-## 📊 GitHub İstatistikleri (GitHub Stats)
+## 📊 GitHub Stats
 
 <p align="center" style="display:flex; flex-wrap: wrap; gap:20px; align-items:center; justify-content:center; margin-top: 20px; margin-bottom: 30px;">
   <img height="200" width="345" src="https://github-readme-stats.vercel.app/api?username=selinkarabicakkk&show_icons=true&theme=tokyonight&hide_rank=true" />
@@ -35,7 +35,7 @@ Yapay Zeka Mühendisi. Bilgisayarla Görü, Doğal Dil İşleme, MLOps ve Veri A
   <img src="https://github-profile-trophy.vercel.app/?username=selinkarabicakkk&theme=discord&margin-w=15&margin-h=15&row=1&column=8" />
 </p>
 
-## 📈 Aktivite Grafiği (Activity Graph)
+## 📈 Activity Graph
 
 <p align="center" style="margin-top: 20px;">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank">
