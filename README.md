@@ -18,8 +18,8 @@ Artificial Intelligence Engineer with experience in Computer Vision, Natural Lan
 ## 🛠️ Tech Stack & Tools
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 30px;">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,bash,git,linux,docker,aws,gcp,azure,githubactions" />
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,postgres,mysql,mongodb,redis,fastapi,flask,notion" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,bash,js,react,nextjs,nodejs,tensorflow,pytorch,sklearn,opencv,git,docker" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,linux,githubactions,postgres,mysql,mongodb,redis,fastapi,flask,selenium,tailwind" />
 </p>
 
 ## 📊 GitHub Stats
